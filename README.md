@@ -24,4 +24,4 @@ But enough about ME... What do YOU think about me? :emoji? ;-) /giphy ? Aw nuts.
 
 How do we get emojis from the keyboard here? Gitmoji? Not repo-moji. Remoji? Repoji? Emogit? :think :facepalm
 
-** I'm out. That's enough for a first pass. **
+I'm out. That's enough for a first pass.
