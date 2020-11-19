@@ -14,8 +14,8 @@ The universe is converging to "the notebook" while it is neither notes nor a boo
 
 But why is Docker trying to act exactly like GitHub? When I pop open K8s, is that going to have cells and repo too?
 
-What is the plural of "repo"? It feels like it should be "repo" because the word ends in a vowel, like Latin...
+What is the plural of "repo"? It feels like it should be "repo" because the word ends in a vowel, like Latin... "repo'o" where you hit that "o" sound twice.
 
-But I've talked about myself enough. What do YOU think about me? :emoji? ;-) Nope...
+But enough about ME... What do YOU think about me? :emoji? ;-) Nope...
 
-How do we get emojis from the keyboard here? 
+How do we get emojis from the keyboard here? Gitmoji? Not repo-moji. Remoji? Repoji? Emogit?
